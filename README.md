@@ -1,16 +1,69 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**sahug/sahug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gajendra-kumar-sahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@gajendra.k.s">
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/gajendraks">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahug&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">  
+  <img src="https://img.icons8.com/emoji/344/waving-hand-emoji.png" width="50" height="50"/>  
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with LexisNexis Risk Solution.
+- :telescope: I’m a **Lead Quality Test Engineer** and contributing to software and performance test automation.
+
+- :seedling: Exploring technical content writing in [![Medium Badge](https://img.shields.io/badge/medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@gajendra.k.s)
+
+- :zap: In my free time, as  a **Data Scientist** I solve problems and participate in competitions in [![Kaggle Badge](https://img.shields.io/badge/kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/gajendraks)
+
+- :mailbox:Connect with me me via [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gajendra-kumar-sahu/) or [![Medium Badge](https://img.shields.io/badge/medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@gajendra.k.s)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50"/>&nbsp;  
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" title="Keras" alt="Keras" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" title="Scikit-Learn" alt="Scikit-Learn" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" title="Huggingface" alt="Huggingface" width="50" height="50"/>&nbsp;
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" title="Cucumber" alt="Cucumber" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gatling.svg" title="Gatling" alt="Gatling" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://cloud.githubusercontent.com/assets/3802058/6964570/2abd7c42-d953-11e4-9f1e-b10e02f9d627.png" title="SQL"  alt="SQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 📊 GitHub Stats :
+Most of the repositories are private. It will be shared soon.
+
+<!-- 
+![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnemartin&show_icons=true&theme=light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnemartin&langs_count=8) 
 -->
