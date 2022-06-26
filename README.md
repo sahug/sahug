@@ -42,19 +42,19 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50"/>&nbsp;  
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" title="Keras" alt="Keras" width="50" height="50"/>&nbsp; 
-  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" title="Scikit-Learn" alt="Scikit-Learn" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" title="Huggingface" alt="Huggingface" width="50" height="50"/>&nbsp;
-  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" title="Cucumber" alt="Cucumber" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/gatling.svg" title="Gatling" alt="Gatling" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://cloud.githubusercontent.com/assets/3802058/6964570/2abd7c42-d953-11e4-9f1e-b10e02f9d627.png" title="SQL"  alt="SQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="75" height="75"/>&nbsp;  
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" title="Keras" alt="Keras" width="75" height="75"/>&nbsp; 
+  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" title="Scikit-Learn" alt="Scikit-Learn" width="75" height="75"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" title="Huggingface" alt="Huggingface" width="75" height="75"/>&nbsp;
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="75" height="75"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" title="Cucumber" alt="Cucumber" width="75" height="75"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gatling.svg" title="Gatling" alt="Gatling" width="75" height="75"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker" width="75" height="75"/>&nbsp;
+  <img src="https://cloud.githubusercontent.com/assets/3802058/6964570/2abd7c42-d953-11e4-9f1e-b10e02f9d627.png" title="SQL"  alt="SQL" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
 </div>
 
 ---
