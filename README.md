@@ -28,11 +28,11 @@
 </div>
 </h1> -->
 
-<h1 align="center">  
 <div align="center">  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600" height="300"/>  
 </div>
-<h1>
+
+---
 
 ### :man_technologist: About Me :
 I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with LexisNexis Risk Solution.
