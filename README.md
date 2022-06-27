@@ -22,11 +22,17 @@
   <img src="https://img.icons8.com/emoji/344/waving-hand-emoji.png" width="50" height="50"/>  
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!-- <h1 align="center">  
+<div align="center">  
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>  
 </div>
+</h1> -->
 
----
+<h1 align="center">  
+<div align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="600" height="300"/>  
+</div>
+<h1>
 
 ### :man_technologist: About Me :
 I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working with LexisNexis Risk Solution.
@@ -59,11 +65,21 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
 
 ---
 
+### 🏆 Achievements :
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahug)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+  
+### 🔔 Latest Github Updates :
+![Metrics](https://metrics.lecoq.io/sahug?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) 
+ 
+---
+
 ### 📊 GitHub Stats :
 Most of the repositories are private. It will be shared soon.
 
-<!-- 
-![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=donnemartin&show_icons=true&theme=light)
+![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahug&show_icons=true&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donnemartin&langs_count=8) 
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahug&theme=light)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug&langs_count=8) 
