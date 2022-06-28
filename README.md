@@ -70,7 +70,7 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
 ---
 
 ### 🏆 Achievements :
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahug)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahug)]
 
 ---
   
