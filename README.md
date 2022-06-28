@@ -12,6 +12,9 @@
   <a href="https://www.kaggle.com/gajendraks">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://www.hackerrank.com/gajendraks?hr_r=1">
+    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Kaggle Badge"/>
+  </a>
 </div>
 
 <div id="header" align="center">  
