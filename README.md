@@ -84,6 +84,6 @@ Most of the repositories are private. It will be shared soon.
 
 ![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahug&show_icons=true&theme=light)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahug&theme=light)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahug&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug&langs_count=8) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug&langs_count=8)
