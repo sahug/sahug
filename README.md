@@ -86,4 +86,4 @@ Most of the repositories are private. It will be shared soon.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahug&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug)](https://github.com/anuraghazra/github-readme-stats)
