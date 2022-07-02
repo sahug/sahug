@@ -83,4 +83,7 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
 Most of the repositories are private. It will be shared soon.
 
 ![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahug&show_icons=true&theme=light)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahug&theme=light) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahug&theme=light) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahug)](https://github.com/anuraghazra/github-readme-stats)
