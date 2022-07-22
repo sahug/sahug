@@ -13,10 +13,13 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://www.hackerrank.com/gajendraks?hr_r=1">
-    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://www.credential.net/profile/gajendrasahu74757/wallet">
     <img src="https://img.shields.io/badge/accredible-light?style=for-the-badge&logo=accredible&logoColor=white" alt="Accredible Badge"/>
+  </a>
+    <a href="https://leetcode.com/user6492E/">
+    <img src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
 
