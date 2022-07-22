@@ -66,11 +66,6 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
 ![trophy](https://github-trophies.vercel.app/?username=sahug)
 
 ---
-  
-### 🔔 Latest Github Updates :
-![Metrics](https://metrics.lecoq.io/sahug?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) 
- 
----
 
 ### 📊 GitHub Stats :
 Most of the repositories are private. It will be shared soon.
