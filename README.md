@@ -64,7 +64,9 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
   <img src="https://cloud.githubusercontent.com/assets/3802058/6964570/2abd7c42-d953-11e4-9f1e-b10e02f9d627.png" title="SQL"  alt="SQL" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="75" height="75"/>
 </div>
+  
 
 ---
 
