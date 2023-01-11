@@ -27,13 +27,13 @@
   <img src="https://komarev.com/ghpvc/?username=sahug&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">  
+<!-- <h1 align="center">  
   <img src="https://img.icons8.com/emoji/344/waving-hand-emoji.png" width="50" height="50"/>  
 </h1>
-
-<h1 align="center" >    
+ -->
+<!-- <h1 align="center" >    
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
-<h1>
+<h1> -->
 
 ---
 
@@ -65,9 +65,10 @@ I am a **Lead Quality Test and Data Science Engineer** <img src="https://media.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="75" height="75"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" title="Splunk" **alt="Splunk" width="75" height="75"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/dynatrace_logo_icon_168227.png" title="Dynatrace" **alt="Dynatrace" width="90" height="75"/>
 </div>
   
-
 ---
 
 ### 🏆 Achievements :
